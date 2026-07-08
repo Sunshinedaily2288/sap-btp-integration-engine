@@ -1,0 +1,7 @@
+{
+  "eventId": "EVT-SAP-2026-X7712",
+  "entityType": "BusinessPartner",
+  "actionType": "CREATE",
+  "timestamp": "2026-07-08T13:45:00Z",
+  "triggeredBy": "SAP_BTP_EM_DEFAULT"
+}
